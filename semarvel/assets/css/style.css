@@ -129,6 +129,37 @@ body {
     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
 
+/* Section Layanan Kami */
+
+#hal-layanan-kami {
+    width: 100%;
+    background: white;
+    height: 100vh;
+}
+
+#hal-layanan-kami h1{
+    color: var(--pr-color);
+    
+}
+
+#hal-layanan-kami h5{
+    color: black;
+    font-weight: 700;
+    font-size: large;    
+}
+
+.btn-iklan {
+    border-radius:10px;
+    background: var(--pr-color);
+    color: white;
+    border: none;
+    height: 40px;
+}
+
+.card-untung:hover {
+    background: rgba(0,0,0,.06);
+}
+
 
 /* section {
     width: 100%;
